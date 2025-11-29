@@ -15,31 +15,24 @@
 
 ## Menu
 
-  - [**System architecture**](#system-architecture)
-
-  - [**Package dependency**](#dependency)
-
-  - [**Package install**](#install)
-
-  - [**Prepare lidar data**](#prepare-lidar-data) (must read)
-
-  - [**Prepare IMU data**](#prepare-imu-data) (must read)
-
-  - [**Sample datasets**](#sample-datasets)
-
-  - [**Run the package**](#run-the-package)
-
-  - [**Other notes**](#other-notes)
-
-  - [**Issues**](#issues)
-
-  - [**Paper**](#paper)
-
-  - [**TODO**](#todo)
-
-  - [**Related Package**](#related-package)
-
-  - [**Acknowledgement**](#acknowledgement)
+- [LIO-SAM](#lio-sam)
+  - [Menu](#menu)
+  - [System architecture](#system-architecture)
+  - [Dependency](#dependency)
+  - [Install](#install)
+  - [Using Docker](#using-docker)
+  - [Prepare lidar data](#prepare-lidar-data)
+  - [Prepare IMU data](#prepare-imu-data)
+  - [Sample datasets](#sample-datasets)
+  - [Run the package](#run-the-package)
+  - [Other notes](#other-notes)
+  - [Service](#service)
+  - [Issues](#issues)
+  - [Paper](#paper)
+  - [TODO](#todo)
+  - [Related Package](#related-package)
+  - [Acknowledgement](#acknowledgement)
+  - [add in vscode](#add-in-vscode)
 
 ## System architecture
 
@@ -272,3 +265,6 @@ Part of the code is adapted from [LeGO-LOAM](https://github.com/RobustFieldAuton
 ## Acknowledgement
 
   - LIO-SAM is based on LOAM (J. Zhang and S. Singh. LOAM: Lidar Odometry and Mapping in Real-time).
+
+## add in vscode
+hello jyf,this contect is add in vscode in 2025.11.29 
